@@ -1,0 +1,9 @@
+{
+  "Author": "visha-svg",
+  "Name": "My Dalamud Plugins",
+  "Punchline": "Custom Dalamud plugin repository",
+  "Description": "Personal / Dev Dalamud plugin repository",
+  "RepoUrl": "https://github.com/visha-svg/MyDalamudPlugins",
+  "DalamudApiLevel": 10,
+  "Plugins": []
+}
