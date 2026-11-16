@@ -1,7 +1,7 @@
 [
   {
     "Author": "visha-svg",
-    "Name": "BossScaler",
+    "Name": "mini mini",
     "InternalName": "BossScaler",
     "AssemblyVersion": "1.0.0.0",
     "Description": "名前で登録した敵（ボス）のモデル表示サイズを個別に変更します。見た目のみで、当たり判定やAoE表示は変わりません。/bossscale で設定画面を開きます。",
