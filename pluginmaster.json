@@ -1,9 +1,23 @@
-{
-  "Author": "visha-svg",
-  "Name": "My Dalamud Plugins",
-  "Punchline": "Custom Dalamud plugin repository",
-  "Description": "Personal / Dev Dalamud plugin repository",
-  "RepoUrl": "https://github.com/visha-svg/MyDalamudPlugins",
-  "DalamudApiLevel": 10,
-  "Plugins": []
-}
+[
+  {
+    "Author": "Rayu",
+    "Name": "BossScaler",
+    "InternalName": "BossScaler",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "名前で登録した敵（ボス）のモデル表示サイズを個別に変更します。見た目のみで、当たり判定やAoE表示は変わりません。/bossscale で設定画面を開きます。",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "visual"
+    ],
+    "DalamudApiLevel": 15,
+    "Punchline": "指定した敵の見た目だけを縮小表示します。",
+    "RepoUrl": "https://github.com/visha-svg/MyDalamudPlugins",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/visha-svg/MyDalamudPlugins/main/plugins/BossScaler/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/visha-svg/MyDalamudPlugins/main/plugins/BossScaler/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/visha-svg/MyDalamudPlugins/main/plugins/BossScaler/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadCount": 0,
+    "LastUpdate": 1794846057
+  }
+]
