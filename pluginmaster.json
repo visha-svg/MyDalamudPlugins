@@ -25,7 +25,7 @@
     "Author": "visha-svg",
     "InternalName": "QuickSynthQueue",
     "Name": "Quick Synth Queue",
-    "AssemblyVersion": "1.0.6.0",
+    "AssemblyVersion": "1.0.7.0",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Punchline": "手持ち素材で作れる回数まで簡易製作を予約できます。",
@@ -39,7 +39,7 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "LastUpdate": 1795275343,
+    "LastUpdate": 1795276230,
     "IconUrl": "https://raw.githubusercontent.com/visha-svg/MyDalamudPlugins/main/images/QuickSynthQueue-icon.png"
   }
 ]
