@@ -20,5 +20,25 @@
     "IsTestingExclusive": false,
     "DownloadCount": 0,
     "LastUpdate": 1794847204
+  },
+  {
+    "Author": "visha-svg",
+    "InternalName": "QuickSynthQueue",
+    "Name": "Quick Synth Queue",
+    "AssemblyVersion": "1.0.0.0",
+    "DalamudApiLevel": 15,
+    "ApplicableVersion": "any",
+    "Punchline": "簡易製作を最大999回まで予約します。",
+    "Description": "製作手帳で選択したレシピの簡易製作を、1回あたり99回以下に分けて実行します。/qsqueue で開きます。",
+    "Tags": [
+      "crafting"
+    ],
+    "RepoUrl": "https://github.com/visha-svg/MyDalamudPlugins",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/visha-svg/MyDalamudPlugins/main/plugins/QuickSynthQueue/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/visha-svg/MyDalamudPlugins/main/plugins/QuickSynthQueue/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadCount": 0,
+    "LastUpdate": 1795274498
   }
 ]
