@@ -25,10 +25,10 @@
     "Author": "visha-svg",
     "InternalName": "QuickSynthQueue",
     "Name": "Quick Synth Queue",
-    "AssemblyVersion": "1.0.4.0",
+    "AssemblyVersion": "1.0.5.0",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
-    "Punchline": "簡易製作を最大999回まで予約します。",
+    "Punchline": "手持ち素材で作れる回数まで簡易製作を予約できます。",
     "Description": "製作手帳で選択したレシピの簡易製作を、1回あたり99回以下に分けて実行します。簡易製作の数量画面の qsqueue ボタン、/qsq、/qsqueue で開きます。",
     "Tags": [
       "crafting"
@@ -39,6 +39,6 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "LastUpdate": 1795274951
+    "LastUpdate": 1795275154
   }
 ]
