@@ -25,7 +25,7 @@
     "Author": "visha-svg",
     "InternalName": "QuickSynthQueue",
     "Name": "Quick Synth Queue",
-    "AssemblyVersion": "1.0.1.0",
+    "AssemblyVersion": "1.0.2.0",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Punchline": "簡易製作を最大999回まで予約します。",
@@ -39,6 +39,6 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "LastUpdate": 1795274614
+    "LastUpdate": 1795274672
   }
 ]
