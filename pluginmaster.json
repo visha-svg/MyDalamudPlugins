@@ -45,8 +45,8 @@
   {
     "Author": "visha-svg",
     "InternalName": "HpBalanceGauge",
-    "Name": "HP均等ゲージ",
-    "AssemblyVersion": "1.0.2.0",
+    "Name": "HP Equalization Helper",
+    "AssemblyVersion": "1.0.3.0",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Punchline": "2体の敵のHP差をゲージで表示します。",
@@ -61,6 +61,6 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "LastUpdate": 1795414029
+    "LastUpdate": 1795414138
   }
 ]
