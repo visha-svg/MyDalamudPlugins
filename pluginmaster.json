@@ -46,7 +46,7 @@
     "Author": "visha-svg",
     "InternalName": "HpBalanceGauge",
     "Name": "HpBalanceGauge",
-    "AssemblyVersion": "1.0.5.0",
+    "AssemblyVersion": "1.0.6.0",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Punchline": "2体の敵のHP差をゲージで表示します。",
@@ -61,6 +61,7 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "LastUpdate": 1795414655
+    "LastUpdate": 1795415079,
+    "IconUrl": "https://raw.githubusercontent.com/visha-svg/MyDalamudPlugins/main/images/HpBalanceGauge-icon.png"
   }
 ]
