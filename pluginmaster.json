@@ -41,5 +41,26 @@
     "DownloadCount": 0,
     "LastUpdate": 1795333082,
     "IconUrl": "https://raw.githubusercontent.com/visha-svg/MyDalamudPlugins/main/images/QuickSynthQueue-icon.png"
+  },
+  {
+    "Author": "visha-svg",
+    "InternalName": "HpBalanceGauge",
+    "Name": "HP均等ゲージ",
+    "AssemblyVersion": "1.0.0.0",
+    "DalamudApiLevel": 15,
+    "ApplicableVersion": "any",
+    "Punchline": "2体の敵のHP差をゲージで表示します。",
+    "Description": "登録した2体の敵（例：絶もうひとつの未来 P4 のシヴァと闇の巫女）のHP割合の差を、許容範囲付きのゲージで表示します。登録した技の詠唱中だけ表示することもできます。/hpg で設定を開きます。",
+    "Tags": [
+      "combat",
+      "raid"
+    ],
+    "RepoUrl": "https://github.com/visha-svg/MyDalamudPlugins",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/visha-svg/MyDalamudPlugins/main/plugins/HpBalanceGauge/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/visha-svg/MyDalamudPlugins/main/plugins/HpBalanceGauge/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadCount": 0,
+    "LastUpdate": 1795413430
   }
 ]
